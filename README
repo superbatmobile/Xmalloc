@@ -1,0 +1,7 @@
+A segregated list implmentation for dynamic memory allocator
+
+Checkheap and check_list function are provided as helper to show memory allocated. Also could benefit for debugging and furture understanding how the allocator worked.
+
+Could run make to compile the program and run ./mdriver with different options to run the allocator
+Different operations are shown by typing unix> mdriver -h
+
